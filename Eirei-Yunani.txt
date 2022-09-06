@@ -2,3 +2,4 @@ Archimedes
 Socrates
 Plato
 Aristoteles
+Pythagoras
